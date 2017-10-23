@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Belajar Online</string>
+
+    <!-- Register -->
+    <string name="register_title">Buat Akun</string>
+    <string name="register_hint_username">USERNAME</string>
+    <string name="register_hint_email">EMAIL</string>
+    <string name="register_hint_phone">NO. TELEPON</string>
+    <string name="register_hint_password">PASSWORD</string>
+    <string name="register_hint_password_confirm">KONFRIMASI PASSWORD</string>
+    <string name="register_button">Register</string>
+
+    <!-- Login -->
+    <string name="login_button">Login</string>
+
+    <string name="validation_error_username">Username harus diisi</string>
+    <string name="validation_error_email">Email tidak valid</string>
+    <string name="validation_error_phone">No. Telepon harus diisi</string>
+    <string name="validation_error_password">Password harus diisi</string>
+    <string name="validation_error_password_confirm">Masukkan ulang password</string>
+    <string name="login_title">Login</string>
+    <string name="login_register_button">Register</string>
+</resources>
