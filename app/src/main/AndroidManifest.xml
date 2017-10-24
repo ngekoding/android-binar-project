@@ -12,8 +12,11 @@
         <activity
             android:name=".RegisterActivity"
             android:label="Register"
-            android:parentActivityName=".LoginActivity"></activity>
-        <activity android:name=".LoginActivity">
+            android:parentActivityName=".LoginActivity" />
+        <activity android:name=".LoginActivity"></activity>
+        <activity
+            android:name=".ClassDetailActivity"
+            android:label="Belajar Fotografi">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -7,4 +7,9 @@
 
     <color name="colorBackground">#F8F8F8</color>
     <color name="colorRegisterButton">#F2994A</color>
+    <color name="colorDivider">#ececec</color>
+
+    <color name="colorDescriptionTitle">#999999</color>
+    <color name="colorDescriptionContent">#4d4d4d</color>
+
 </resources>
